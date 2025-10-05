@@ -1,0 +1,20 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# STS / IntelliJ / VSCode
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS credentials (VERY IMPORTANT)
+application.properties
+application.yml
